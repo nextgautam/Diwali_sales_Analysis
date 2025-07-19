@@ -92,7 +92,6 @@ Analyze the Diwali sales dataset to understand:
 
 ## 🖼️ Project Files
 
-- `Diwali_Sales_Analysis.ipynb`: Source code (to be added)
-- `Diwali Sales Data.csv`: Dataset (upload this to GitHub)
-- `Diwali_Sales_Analysis.pdf`: Project report
-- `README.md`: Project documentation
+- `Diwali Sales Data.csv`: Dataset.
+- `Diwali_Sales_Analysis.pdf`: Project report.
+- `README.md`: Project documentation.
